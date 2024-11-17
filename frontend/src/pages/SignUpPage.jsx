@@ -71,7 +71,7 @@ const SignUpPage = () => {
             </div>
 
             <button className="w-full py-2 bg-red-600 text-white font-semibold rounded-md hover:bg-red-700">
-              Get Started {">"}
+              Sign Up
             </button>
             <div className="text-center text-gray-400">
               Already a member? {" "}
